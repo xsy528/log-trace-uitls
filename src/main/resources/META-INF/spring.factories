@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.gyyx.aoplog.config.LogConfig
+
+org.springframework.context.ApplicationContextInitializer=\
+cn.gyyx.aoplog.config.StarterInit
